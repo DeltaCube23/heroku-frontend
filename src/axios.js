@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseURL = "http://rankedchoice34567.herokuapp.com/api/";
+const baseURL = "https://rankedchoice12345.herokuapp.com/api/";
 
 const axiosInstance = axios.create({
   baseURL: baseURL,
